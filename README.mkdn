@@ -1,4 +1,4 @@
-LineageOS
+LightingFastRom
 ===========
 
 Submitting Patches
@@ -28,12 +28,12 @@ To view the status of your and others' patches, visit [LineageOS Code Review](ht
 Getting Started
 ---------------
 
-To get started with Android/LineageOS, you'll need to get
+To get started with Android/LightingFastRom, you'll need to get
 familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+To initialize your local repository using the LightingFastRom trees, use a command like this:
 
-    repo init -u git://github.com/LineageOS/android.git -b cm-14.1
+    repo init -u git://github.com/LightingFastRom/android.git -b cm-14.1
 
 Then to sync up:
 
