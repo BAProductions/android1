@@ -44,7 +44,7 @@ Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instru
 
 Submitting patches
 ------------------
-Patches are always welcome! Please submit your patches via LineageOS Gerrit for baulk of OS or though LightingFastRom GitHub page for any package i've imported, forked, modded or rebranded!
+Patches are always welcome! Please submit your patches via LineageOS Gerrit for baulk of OS or though here [Click Here](https://forum.xda-developers.com/tab-4/development/samsung-galaxy-tab-4-light-project-t3877643) for review!
 
 Simply follow our guide on [how to submit patches](https://wiki.lineageos.org/submitting-patch-howto.html).
 
