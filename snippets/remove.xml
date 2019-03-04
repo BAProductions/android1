@@ -26,7 +26,13 @@
   <remove-project path="packages/apps/Trebuchet" name="LineageOS/android_packages_apps_Trebuchet" groups="pdk-fs" />
   <remove-project  path="vendor/cmsdk/samples/weatherproviderservice/OpenWeatherMapProvider" name="LineageOS/android_packages_apps_OpenWeatherMapProvider" />
   <remove-project  path="vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider" name="LineageOS/android_packages_apps_WundergroundWeatherProvider" />
+  
   <!-- Not Needed Since 7.1.2 Will Get No More Update May Add Updater To Rom In The Feture Not Sure Yet-->
   <remove-project path="packages/apps/Updater" name="LineageOS/android_packages_apps_Updater" />
+  
+  <!-- Wallpaper & Screensaver -->
+  <!-- Replaced LineageOS android_packages_apps_WallpaperPicker With My Repo For Branding Prepos -->
+  <remove-project path="packages/apps/WallpaperPicker" name="LineageOS/android_packages_apps_WallpaperPicker" groups="pdk-fs" />
+  <project path="packages/apps/WallpaperPicker" name="BAProductions/android_packages_apps_WallpaperPicker" groups="pdk-fs" />
   
 </manifest>
