@@ -1,5 +1,6 @@
 LightingFastRom
 ===========
+LightingFastRom is based on LineageOS minus the bloat & lag. My overal goal is to optmize Android to run as smooth as Apple iOS as I can for older devices & simplfi thing where I can
 
 Getting started
 ---------------
@@ -20,18 +21,8 @@ Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instru
 
 Submitting patches
 ------------------
-Patches are always welcome! Please submit your patches via LineageOS Gerrit!
+Patches are always welcome! Please submit your patches via LineageOS Gerrit for baulk of OS or though LightingFastRom GitHub page Fo any package i've Forked & modded or rebranded!
 
 Simply follow our guide on [how to submit patches](https://wiki.lineageos.org/submitting-patch-howto.html).
 
 To view the status of your and others' patches, visit [LineageOS Gerrit Code Review](https://review.lineageos.org/).
-
-
-Buildbot
---------
-
-All supported devices are built weekly and periodically as changes are committed to ensure the source trees remain buildable.
-
-You can view the current build statuses at [LineageOS Jenkins](https://jenkins.lineageos.org/).
-
-Builds produced weekly by the buildbot can be downloaded from [LineageOS downloads](https://download.lineageos.org/).
