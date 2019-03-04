@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="GitHubMods"
+   <remote  name="GitHubMods"
            fetch="https://github.com" 
 		   sync-c="true"
            sync-j="4"
@@ -22,57 +22,11 @@
   <remove-project path="packages/apps/LockClock" name="LineageOS/android_packages_apps_LockClock" />
   <remove-project path="packages/apps/DeskClock" name="LineageOS/android_packages_apps_DeskClock" />
   <remove-project path="packages/apps/SetupWizard" name="LineageOS/android_packages_apps_SetupWizard" />
-  <!-- Not Needed Since 7.1.2 Will Get No More Update May Add Updater To Rom In The Feture Not Sure Yet-->
-  <remove-project path="packages/apps/Updater" name="LineageOS/android_packages_apps_Updater" />
-
-  <!-- ViPER4Android = Better Sound Hell Yeah Im Keeping This Apps --> 
-  <!-- <project path="packages/apps/ViPER4Android" name="MoKee/android_packages_apps_ViPER4Android" revision="mkm" remote="MoKee" /> --> 
-  
-  <!-- Apps I Want To Try Out Because Im Curious To --> 
-  <!-- May Or May Not Keep --> 
-  <project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" revision="mkn-mr1" remote="MoKee" />
   <remove-project path="packages/apps/Gallery2" name="LineageOS/android_packages_apps_Gallery2" groups="pdk-fs" />
-  <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Venus" revision="mkn-mr1" remote="MoKee" />
-  <!-- <project path="packages/apps/Nox" name="MoKee/android_packages_apps_Nox" revision="mkn-mr1" remote="MoKee" /> -->
-  <project path="packages/apps/Poseidon" name="MoKee/android_packages_apps_Poseidon" revision="mkl-mr1" remote="MoKee" />
-  <project path="packages/apps/Polyhymnia" name="MoKee/android_packages_apps_Polyhymnia" revision="mkn-mr1" remote="MoKee" />
- 
-  <!-- MoKee Apps -->
-  <!-- Notapad Apps Works But Look Ulgy Yay -->
-  <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" revision="kk_mkt" remote="MoKee" />
-  <project path="packages/apps/Notes" name="BAProductions/Notes" revision="lightos-1.0" remote="GitHubMods" />
-  
-  <!-- PureFusionOS Apps/Tweeks -->
-  
-  <project path="packages/apps/Matlog" name="PureFusionOS/android_packages_apps_Matlog" groups="pdk-fs" revision="n-mr2" remote="GitHubMods" />
-  <project path="packages/apps/SnapdragonCamera" name="PureFusionOS/android_packages_apps_SnapdragonCamera" revision="n-mr2" remote="GitHubMods" />
-  
-  <!-- TODO: Adding Theme Chooser To Rom? -->
-  <!-- Theme Chooser Swap For Substratum? -->
-  <!-- <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" revision="n-rootless" remote="GitHubMods" /> -->
-  <project path="packages/apps/masquerade" name="substratum/masquerade" revision="n" remote="GitHubMods" />
-  <!-- <project path="packages/apps/ThemeChooser" name="BAProductions/android_packages_apps_ThemeChooser" revision="mkn-mr1" remote="MoKee" /> -->
-  <!-- <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" revision="mkn-mr1" remote="MoKee" /> -->
-  
-  <!-- Replacing Launcher3 With Lawnchair Launcher I Need Folder Support -->
   <remove-project path="packages/apps/Trebuchet" name="LineageOS/android_packages_apps_Trebuchet" groups="pdk-fs" />
-  <!-- <project path="packages/apps/Launcher3" name="pixeldustproject-o/android_packages_apps_Launcher3" groups="pdk-fs" revision="o2" remote="GitHubMods" /> --> 
-  <!-- <project path="packages/apps/FlickLauncher" name="AutumnMacro/FlickLauncher" groups="pdk-fs" revision="master" remote="GitHubMods" />  --> 
-  <!-- <project path="packages/apps/Lawnchair" name="BAProductions/android_packages_apps_Lawnchair" groups="pdk-fs" revision="n-mr2" remote="GitHubMods" /> -->
-  <project path="packages/apps/Launcher3" name="PureFusionOS/android_packages_apps_Launcher3-OLD" groups="pdk-fs" revision="n-mr2" remote="GitHubMods" /> 
-  <!-- <project path="packages/apps/Launcher3" name="muhammadkamranlatifraza/FlickLauncher" groups="pdk-fs" revision="master" remote="GitHubMods" /> -->
-  <!-- <project path="packages/apps/Launcher3" name="amirzaidi/Launcher3" groups="pdk-fs" revision="n-mr1" remote="GitHubMods" /> --> 
-  <!-- <project path="packages/apps/Lawnchair" name="BAProductions/Lawnchair" groups="pdk-fs" revision="alpha" remote="GitHubMods" /> -->
-  
   <remove-project  path="vendor/cmsdk/samples/weatherproviderservice/OpenWeatherMapProvider" name="LineageOS/android_packages_apps_OpenWeatherMapProvider" />
   <remove-project  path="vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider" name="LineageOS/android_packages_apps_WundergroundWeatherProvider" />
-  <project path="packages/apps/Weather" name="Sparker0i/Weather" revision="master" remote="GitHubMods" />
-  <!-- Wallpaper & Screensaver -->
-  <!-- Replaced LineageOS android_packages_apps_WallpaperPicker With My Repo For Branding Prepos -->
-  <remove-project path="packages/apps/WallpaperPicker" name="LineageOS/android_packages_apps_WallpaperPicker" groups="pdk-fs" />
-  <project path="packages/apps/WallpaperPicker" name="BAProductions/android_packages_apps_WallpaperPicker" groups="pdk-fs" />
-  
-  <!-- Adding My Own For Branding Perpous But Mostely Replaceing The Default Ringtones/Sounds With My Own Ringtones AKA(Qualty Over Quantity) -->
-  <project path="vendor/light" name="BAProductions/android_vendor_light" revision="lightos-1.0" remote="GitHubMods" />
+  <!-- Not Needed Since 7.1.2 Will Get No More Update May Add Updater To Rom In The Feture Not Sure Yet-->
+  <remove-project path="packages/apps/Updater" name="LineageOS/android_packages_apps_Updater" />
   
 </manifest>
