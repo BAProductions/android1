@@ -1,6 +1,7 @@
+
 LightingFastRom
 ===========
-LightingFastRom is based on LineageOS minus the bloat & lag. My overal goal is to optmize Android to run as smooth as Apple iOS as I can for older devices & simplfi thing where I can
+LightingFastRom is based on LineageOS minus the bloat & lag. My overall goal is to optimize Android to run as smooth as Apple iOS as I can for older devices & simplify thing where I can
 
 Getting started
 ---------------
@@ -16,12 +17,34 @@ Then to sync up:
 ```
 repo sync
 ```
-Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
+Submitting your ideas or cool application for review
+----------------------------------------------
+Rules adding for new feature to exciting repo
+1. Build rom for your device.
+2. Explore rom and see what can be improvised or what missing.
+3. Look at your #1 favorite rom.
+4. See if your #1 favorite rom has something useful or make something cool & useful that solve a common problem.
+5. Fork the related to your new or ideas improvise implement idea for the fork repo and test on your device till your happy with how it operate.
+6. Make test build for Samsung Galaxy Tab 4 10.1 & post on here [Click Here](https://forum.xda-developers.com/tab-4/development/samsung-galaxy-tab-4-light-project-t3877643) with explanation on what it does or what improve upon along with screenshot for review & if I like & find useful i'll add you to the ORG as sole maintainer of the idea.
 
+Rules for your cool & useful application
+1. Build rom for your device.
+2. Explore rom and see mess with the defaults apps
+3. Look at your apps and think is it more useful then the stock application it replaces or is it useful on its own 
+5. Convert your app from android studio to work with LightingFastRom instead.
+6. Make test build for Samsung Galaxy Tab 4 10.1 only if application requires root if not build as APK file and post on here [Click Here](https://forum.xda-developers.com/tab-4/development/samsung-galaxy-tab-4-light-project-t3877643) with explanation on what it does or what improvise upon along with screenshot for review an if I like & find useful i'll add you to the ORG as sole maintainer of the app.
+
+Making suggesting
+----------------------------------------------
+[Click Here](https://forum.xda-developers.com/tab-4/development/samsung-galaxy-tab-4-light-project-t3877643)
+1. Explain way your suggestion useful & what it will solve.
+2. Post examples of your suggestion like photo.
+
+Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
 
 Submitting patches
 ------------------
-Patches are always welcome! Please submit your patches via LineageOS Gerrit for baulk of OS or though LightingFastRom GitHub page Fo any package i've Forked & modded or rebranded!
+Patches are always welcome! Please submit your patches via LineageOS Gerrit for baulk of OS or though LightingFastRom GitHub page for any package i've imported, forked, modded or rebranded!
 
 Simply follow our guide on [how to submit patches](https://wiki.lineageos.org/submitting-patch-howto.html).
 
