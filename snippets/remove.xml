@@ -35,4 +35,8 @@
   <remove-project path="packages/apps/WallpaperPicker" name="LineageOS/android_packages_apps_WallpaperPicker" groups="pdk-fs" />
   <project path="packages/apps/WallpaperPicker" name="BAProductions/android_packages_apps_WallpaperPicker" groups="pdk-fs" />
   
+  <!-- Adding My Own For Branding Perpous But Mostely Replaceing The Default Ringtones/Sounds With My Own Ringtones AKA(Qualty Over Quantity) -->
+  <remove-project path="vendor/lineage" name="LineageOS/android_vendor_lineage" />
+  <project path="vendor/LightingFastRom" name="LightingFastRom/android_vendor_lightning" revision="lightos-1.0" remote="GitHubMods" />
+
 </manifest>
