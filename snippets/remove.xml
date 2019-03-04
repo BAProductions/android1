@@ -2,19 +2,19 @@
 <manifest>
 	<remote  name="GitHubMods"
            fetch="https://github.com" 
-		   sync-c="true"
-           sync-j="4"
-		   clone-depth="1" />
+			sync-c="true"
+			sync-j="4"
+			clone-depth="1" />
 	<remote  name="LightingFastRom"
-           fetch="https://github.com" 
-		   sync-c="true"
-           sync-j="4"
-		   clone-depth="1" />
+			fetch="https://github.com" 
+			sync-c="true"
+			sync-j="4"
+			clone-depth="1" />
 	<remote  name="MoKee"
-           fetch="https://github.com" 
-           sync-c="true"
-           sync-j="4"
-		   clone-depth="1" />
+			fetch="https://github.com" 
+			sync-c="true"
+			sync-j="4"
+			clone-depth="1" />
   
 	<!-- Apps I Never Use Or End Up Replacing Anyways -->
 	<remove-project path="packages/screensavers/Basic" name="LineageOS/android_packages_screensavers_Basic" groups="pdk-fs" />
