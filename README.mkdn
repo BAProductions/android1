@@ -36,9 +36,8 @@ Rules for your cool & useful application
 
 Making suggesting
 ----------------------------------------------
-[Click Here](https://forum.xda-developers.com/tab-4/development/samsung-galaxy-tab-4-light-project-t3877643)
-1. Explain way your suggestion useful & what it will solve.
-2. Post examples of your suggestion like photo.
+1. Explain way your suggestion useful & what it solve.
+2. Post examples of your suggestion here [Click Here](https://forum.xda-developers.com/tab-4/development/samsung-galaxy-tab-4-light-project-t3877643) with photo for me to review or like to where you gotta it from.
 
 Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
 
