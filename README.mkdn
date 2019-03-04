@@ -4,7 +4,7 @@ LightingFastRom
 Getting started
 ---------------
 
-To get started with Android/LineageOS, you'll need to get
+To get started with Android/LightingFastRom, you'll need to get
 familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
 
 To initialize your local repository using the LightingFastRom trees, use a command like this:
