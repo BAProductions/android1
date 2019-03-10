@@ -40,7 +40,8 @@
 	<remove-project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
 	<!-- Not Needed for now but may add updater to rom in the feture but sure yet -->
 	<remove-project path="packages/apps/Updater" name="LineageOS/android_packages_apps_Updater" />
-	
+	<!-- Adding AdAway To Block Annoying Ads-->
+	<project remote="github" path="packages/apps/AdAway" name="AdAway/AdAway" revision="master" />
 	<!-- Keeping Trebuchet for now till I find a better Launcher -->
 	<!--<remove-project path="packages/apps/Trebuchet" name="LineageOS/android_packages_apps_Trebuchet" />-->
 
